@@ -1,37 +1,16 @@
 ## Oru Kadhai Sollatuma Sir ?
 
-You can use the [editor on GitHub](https://github.com/podcastsofpsk/okss/edit/gh-pages/index.md) to maintain and preview the content for your website in Markdown files.
+<img src="https://s3-us-west-2.amazonaws.com/anchor-generated-image-bank/production/podcast_uploaded_nologo400/20313442/20313442-1639733156893-74195387687a.jpg"/>
 
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
+This podcast is an attempt to read underrated drama plays and short stories without lingual boundaries. However the podcast will primarily be in Tamil with sprinkles of English here and there. This show tries to bring in common audience for discussion & will happen in cycle every Sunday 9 PM. The discussion link will be published in my twitter account. Please do follow and join the discussion. Looking forward to know a lot more like minded people.
 
-### Markdown
+Follow me at
+Twitter: <a href="https://twitter.com/skparidhi_xyz">@skparidhi</a>
 
-Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
+### Trailer
 
-```markdown
-Syntax highlighted code block
+<iframe src="https://open.spotify.com/embed/episode/6d2kMY4FGuLGwdy6Q4wZGO?utm_source=generator" width="100%" height="232" frameBorder="0" allowfullscreen="" allow="autoplay; clipboard-write; encrypted-media; fullscreen; picture-in-picture"></iframe>
 
-# Header 1
-## Header 2
-### Header 3
+### Episode 1 : Scorched by Wajda Mouwawad
 
-- Bulleted
-- List
-
-1. Numbered
-2. List
-
-**Bold** and _Italic_ and `Code` text
-
-[Link](url) and ![Image](src)
-```
-
-For more details see [Basic writing and formatting syntax](https://docs.github.com/en/github/writing-on-github/getting-started-with-writing-and-formatting-on-github/basic-writing-and-formatting-syntax).
-
-### Jekyll Themes
-
-Your Pages site will use the layout and styles from the Jekyll theme you have selected in your [repository settings](https://github.com/podcastsofpsk/okss/settings/pages). The name of this theme is saved in the Jekyll `_config.yml` configuration file.
-
-### Support or Contact
-
-Having trouble with Pages? Check out our [documentation](https://docs.github.com/categories/github-pages-basics/) or [contact support](https://support.github.com/contact) and we’ll help you sort it out.
+<iframe src="https://open.spotify.com/embed/episode/0UgW0wUa9J2Y5A6ybvwKAD?utm_source=generator" width="100%" height="232" frameBorder="0" allowfullscreen="" allow="autoplay; clipboard-write; encrypted-media; fullscreen; picture-in-picture"></iframe>
