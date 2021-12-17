@@ -9,7 +9,7 @@ Twitter: <a href="https://twitter.com/skparidhi_xyz">@skparidhi</a>
 
 ### Episode 1 : Scorched by Wajda Mouwawad
 
-<iframe src="https://open.spotify.com/embed/episode/0UgW0wUa9J2Y5A6ybvwKAD?utm_source=generator" width="100%" height="232" frameBorder="0" allowfullscreen="" allow="autoplay; clipboard-write; encrypted-media; fullscreen; picture-in-picture"></iframe><br/>
+<iframe src="https://open.spotify.com/embed/episode/0UgW0wUa9J2Y5A6ybvwKAD?utm_source=generator" width="100%" height="232" frameBorder="0" allowfullscreen="" allow="autoplay; clipboard-write; encrypted-media; fullscreen; picture-in-picture"></iframe>
 
 ### Trailer
 
