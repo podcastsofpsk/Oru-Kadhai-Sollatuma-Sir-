@@ -1,2 +1,2 @@
-# okss
-Oru Kadhai Sollatuma Sir ?
+# Oru Kadhai Sollatuma Sir ?
+podcasts.skparidhi.xyz
