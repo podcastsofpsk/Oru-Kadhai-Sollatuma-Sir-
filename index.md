@@ -7,10 +7,12 @@ This podcast is an attempt to read underrated drama plays and short stories with
 Follow me at
 Twitter: <a href="https://twitter.com/skparidhi_xyz">@skparidhi</a>
 
-### Trailer
-
-<iframe src="https://open.spotify.com/embed/episode/6d2kMY4FGuLGwdy6Q4wZGO?utm_source=generator" width="100%" height="232" frameBorder="0" allowfullscreen="" allow="autoplay; clipboard-write; encrypted-media; fullscreen; picture-in-picture"></iframe><br/>
-
 ### Episode 1 : Scorched by Wajda Mouwawad
 
-<iframe src="https://open.spotify.com/embed/episode/0UgW0wUa9J2Y5A6ybvwKAD?utm_source=generator" width="100%" height="232" frameBorder="0" allowfullscreen="" allow="autoplay; clipboard-write; encrypted-media; fullscreen; picture-in-picture"></iframe>
+<iframe src="https://open.spotify.com/embed/episode/0UgW0wUa9J2Y5A6ybvwKAD?utm_source=generator" width="100%" height="232" frameBorder="0" allowfullscreen="" allow="autoplay; clipboard-write; encrypted-media; fullscreen; picture-in-picture"></iframe><br/>
+
+### Trailer
+
+<iframe src="https://open.spotify.com/embed/episode/6d2kMY4FGuLGwdy6Q4wZGO?utm_source=generator" width="100%" height="232" frameBorder="0" allowfullscreen="" allow="autoplay; clipboard-write; encrypted-media; fullscreen; picture-in-picture"></iframe>
+
+
